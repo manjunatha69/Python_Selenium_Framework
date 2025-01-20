@@ -1,0 +1,1 @@
+<ExceptionInfo TypeError("argument of type 'NoneType' is not iterable") tblen=28>

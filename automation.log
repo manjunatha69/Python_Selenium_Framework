@@ -1,0 +1,484 @@
+2025-01-10 21:25:28,790 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-10 21:25:28,873 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-10 21:25:30,894 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-10 21:25:30,932 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-10 21:25:32,952 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-10 21:25:32,991 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-10 21:25:35,348 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-10 21:25:35,367 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-10 21:25:35,392 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-10 21:25:35,397 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-10 21:25:35,667 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-10 21:25:35,792 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-10 21:25:35,818 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-10 21:25:37,834 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-10 21:25:37,870 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-10 21:25:39,886 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-10 21:25:39,924 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-10 21:25:49,937 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:20:42,438 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:20:42,521 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:20:44,540 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:20:44,572 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:20:46,588 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:20:46,619 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:20:48,919 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:20:48,941 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:20:48,966 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:20:48,971 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:20:49,244 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:20:49,367 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:20:49,390 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:20:51,405 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:20:51,438 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:20:53,454 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:20:53,486 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:21:03,542 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:29:58,922 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:29:59,008 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:30:01,019 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:30:01,038 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:30:03,048 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:30:03,073 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:30:05,411 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:30:05,423 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:30:05,442 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:30:05,447 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:30:05,694 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:30:05,869 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:30:05,888 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:30:07,897 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:30:07,916 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:30:09,924 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:30:09,943 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:30:19,990 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:32:28,114 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:32:28,193 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:32:30,203 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:32:30,222 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:32:32,233 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:32:32,268 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:32:34,564 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:32:34,575 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:32:34,595 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:32:34,600 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:32:34,845 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:32:34,964 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:32:34,983 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:32:36,992 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:32:37,010 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:32:39,016 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:32:39,035 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:32:49,055 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:37:17,085 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:37:17,167 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:37:17,173 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:37:17,194 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:37:17,199 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:37:17,221 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:37:19,683 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:37:19,695 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:37:19,714 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:37:19,719 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:37:19,967 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:37:20,086 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:37:20,106 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:37:20,109 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:37:20,126 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:37:20,129 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:37:20,149 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:37:25,174 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:39:17,760 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:39:17,837 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:39:17,843 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:39:17,861 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:39:17,866 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:39:17,891 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:39:20,179 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:39:20,191 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:39:20,211 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:39:20,216 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:39:20,461 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:39:20,580 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:39:20,599 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:39:20,602 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:39:20,629 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:39:20,632 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:39:20,651 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:39:25,674 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:42:21,837 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:42:21,912 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:42:21,917 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:42:21,937 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:42:21,942 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:42:21,973 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:42:24,272 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:42:24,283 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:42:24,304 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:42:24,309 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:42:24,561 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:42:24,735 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:42:24,754 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:42:24,757 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:42:24,776 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:42:24,779 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:42:24,798 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:42:29,811 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:47:34,117 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:47:34,203 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:47:34,209 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:47:34,229 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:47:34,233 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:47:34,255 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:47:36,656 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 09:47:36,669 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 09:47:36,689 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 09:47:36,694 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 09:47:36,936 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 09:47:37,111 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:47:37,130 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:47:37,133 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:47:37,151 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:47:37,154 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:47:37,174 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:47:42,198 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 09:52:28,511 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:52:28,595 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:52:28,600 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:52:28,619 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:52:28,624 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:52:28,646 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:52:28,646 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:55:53,033 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:55:53,117 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:55:53,122 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:55:53,142 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:55:53,147 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:55:53,168 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:55:53,169 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:55:53,264 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:55:53,283 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:55:53,285 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:55:53,302 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:55:53,305 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:55:53,327 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:55:53,327 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:57:25,203 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:57:25,285 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:57:25,291 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:57:25,310 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:57:25,314 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:57:25,336 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:57:25,336 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:57:25,422 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:57:25,441 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:57:25,444 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:57:25,460 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:57:25,463 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:57:25,483 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:57:25,483 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:57:56,425 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:57:56,510 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 09:57:56,515 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:57:56,534 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:57:58,555 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 09:57:58,593 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 09:57:58,593 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 09:57:58,672 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 09:57:58,692 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 09:57:58,695 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 09:57:58,712 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 09:58:05,731 - SeleniumDriver - WARNING - Element Not Found Using class with value submit-btn
+2025-01-13 09:58:05,731 - SeleniumDriver - WARNING - Could not click on element with locator value submit-btn
+2025-01-13 09:58:05,738 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:00:03,677 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:00:03,770 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:00:03,774 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:00:03,792 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:00:05,812 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:00:05,849 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:00:05,850 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:00:05,928 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:00:05,947 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:00:05,950 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:00:05,966 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:00:13,011 - SeleniumDriver - WARNING - Element Not Found Using class with value submit-btn
+2025-01-13 10:00:13,011 - SeleniumDriver - WARNING - Could not click on element with locator value submit-btn
+2025-01-13 10:00:13,014 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:00:28,764 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:00:28,851 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:00:28,856 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:00:28,876 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:00:30,895 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:00:30,933 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:00:30,933 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:00:31,012 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:00:31,031 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:00:31,034 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:00:31,051 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:00:38,103 - SeleniumDriver - WARNING - Element Not Found Using class with value submit-btn
+2025-01-13 10:00:38,103 - SeleniumDriver - WARNING - Could not click on element with locator value submit-btn
+2025-01-13 10:00:38,106 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:04:57,923 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:04:58,009 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:04:58,014 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:04:58,034 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:04:58,039 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:04:58,060 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:05:00,065 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:05:10,190 - SeleniumDriver - WARNING - Element Not Found Using id with value email1
+2025-01-13 10:05:10,190 - SeleniumDriver - INFO - Could not type mukesh@email.comon element With locator email1
+2025-01-13 10:05:14,255 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:05:14,273 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:05:14,276 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:05:14,295 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:05:16,300 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:05:21,272 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:05:21,350 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:05:21,355 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:05:21,375 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:05:21,380 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:05:21,403 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:05:23,406 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:05:33,512 - SeleniumDriver - WARNING - Element Not Found Using id with value email1
+2025-01-13 10:05:33,512 - SeleniumDriver - INFO - Could not type mukesh@email.comon element With locator email1
+2025-01-13 10:05:43,532 - SeleniumDriver - WARNING - Element Not Found Using id with value password1
+2025-01-13 10:05:43,532 - SeleniumDriver - INFO - Could not type admin@123on element With locator password1
+2025-01-13 10:05:53,564 - SeleniumDriver - WARNING - Element Not Found Using class with value submit-btn
+2025-01-13 10:05:53,564 - SeleniumDriver - WARNING - Could not click on element with locator value submit-btn
+2025-01-13 10:05:55,567 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:07:24,608 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:07:24,688 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:07:24,693 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:07:24,712 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:07:24,717 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:07:24,740 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:07:27,032 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 10:07:27,044 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 10:07:27,065 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 10:07:27,070 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 10:07:27,320 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 10:07:27,440 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:07:27,459 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:07:27,462 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:07:27,480 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:07:27,483 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:07:27,502 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:07:39,513 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 10:07:39,513 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:07:57,256 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:07:57,335 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:07:57,340 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:07:57,361 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:07:57,366 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:07:57,388 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:07:59,684 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 10:07:59,695 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 10:07:59,715 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 10:07:59,720 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 10:07:59,965 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 10:08:00,078 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:08:00,099 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:08:00,102 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:08:00,122 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:08:00,125 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:08:00,144 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:08:12,199 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 10:08:12,199 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:09:53,943 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:09:54,025 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:09:54,030 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:09:54,050 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:09:54,055 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:09:54,076 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:09:56,371 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 10:09:56,383 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 10:09:56,404 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 10:09:56,408 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 10:09:56,655 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 10:09:56,774 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:09:56,794 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:09:56,797 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:09:56,816 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:09:56,819 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:09:56,838 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:10:08,867 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 10:10:08,867 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:12:45,466 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:12:45,552 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:12:45,558 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:12:45,577 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:12:45,582 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:12:45,604 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:12:47,946 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 10:12:56,667 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:12:56,685 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:12:56,689 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:12:56,707 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:12:56,710 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:12:56,731 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:13:08,752 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 10:13:08,753 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 10:17:39,284 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:17:39,371 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 10:17:39,377 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:17:39,396 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:17:39,401 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:17:39,422 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:17:41,720 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-13 10:17:41,732 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-13 10:17:41,752 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-13 10:17:41,757 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-13 10:17:42,002 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-13 10:17:42,116 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 10:17:42,134 - SeleniumDriver - INFO - Typed mukesh@email.comon element With locator email1
+2025-01-13 10:17:42,137 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 10:17:42,155 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-13 10:17:42,158 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 10:17:42,176 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 10:17:54,220 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 10:17:54,220 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 20:43:45,694 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 20:43:45,785 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 20:43:45,789 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 20:43:45,811 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 20:43:45,816 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 20:43:45,845 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 20:43:57,875 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 20:43:57,875 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 20:46:42,434 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 20:46:42,522 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 20:46:42,527 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 20:46:42,554 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 20:46:42,558 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 20:46:42,583 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 20:46:54,638 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 20:46:54,638 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 20:50:38,425 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 20:50:38,514 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 20:50:38,519 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 20:50:38,541 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 20:50:38,546 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 20:50:38,569 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 20:50:50,579 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 20:50:50,579 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 20:54:45,821 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 20:54:45,922 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 20:54:45,927 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 20:54:45,953 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 20:54:45,958 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 20:54:45,985 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 20:54:58,035 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 20:54:58,035 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 20:57:24,735 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 20:57:24,810 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 20:57:24,815 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 20:57:24,838 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 20:57:24,843 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 20:57:24,866 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 20:57:36,924 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 20:57:36,924 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-13 21:00:26,966 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-13 21:00:27,040 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-13 21:00:27,045 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-13 21:00:27,069 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-13 21:00:27,074 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-13 21:00:27,096 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-13 21:00:39,117 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-13 21:00:39,117 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 15:37:51,906 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 15:37:51,993 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 15:37:51,997 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 15:37:52,018 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 15:37:52,022 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 15:37:52,048 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 15:38:04,085 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 15:38:04,085 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 15:41:02,666 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 15:41:02,695 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 15:41:02,697 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 15:41:02,706 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 15:41:02,707 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 15:41:02,919 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 15:41:15,190 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 15:41:15,191 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 20:29:22,530 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 20:29:22,608 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 20:29:22,612 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 20:29:22,632 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 20:29:22,636 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 20:29:22,661 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 20:29:34,383 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 20:29:34,384 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 20:29:45,388 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 20:29:45,478 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 20:29:45,483 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 20:29:45,507 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 20:29:45,513 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 20:29:45,541 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 20:29:57,589 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 20:29:57,590 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 20:30:09,301 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 20:30:09,331 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 20:30:09,335 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 20:30:09,347 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 20:30:09,349 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 20:30:09,564 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 20:30:21,584 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 20:30:21,584 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 20:30:32,112 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 20:30:32,202 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 20:30:32,206 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 20:30:32,232 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 20:30:32,236 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 20:30:32,263 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 20:30:44,276 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 20:30:44,276 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 21:38:10,254 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 21:38:10,477 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 21:38:10,489 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 21:38:10,536 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 21:38:10,548 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 21:38:10,611 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 21:38:22,636 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-15 21:38:22,636 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 21:42:15,941 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 21:42:16,141 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 21:42:16,154 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 21:42:16,197 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 21:42:16,206 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 21:42:16,253 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 21:42:18,260 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 21:42:18,260 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-15 21:42:31,863 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-15 21:42:32,068 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-15 21:42:32,079 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-15 21:42:32,124 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-15 21:42:32,135 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-15 21:42:32,190 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-15 21:42:34,197 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-15 21:42:34,198 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-16 15:20:54,823 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-16 15:20:54,901 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-16 15:20:54,906 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-16 15:20:54,927 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-16 15:20:54,931 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-16 15:20:54,956 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-16 15:21:06,966 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-16 15:21:06,966 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-17 19:54:47,372 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-17 19:54:47,459 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-17 19:54:47,463 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-17 19:54:47,487 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-17 19:54:47,491 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-17 19:54:47,516 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-17 19:54:59,541 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-17 19:54:59,541 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-17 19:55:10,934 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-17 19:55:11,036 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-17 19:55:11,041 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-17 19:55:11,069 - SeleniumDriver - INFO - Typed admin@123454545on element With locator password1
+2025-01-17 19:55:11,074 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-17 19:55:11,106 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found

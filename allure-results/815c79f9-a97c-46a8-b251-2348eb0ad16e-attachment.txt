@@ -1,0 +1,8 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:70 Element Found Using id with value email1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:92 Typed admin@email.comon element With locator email1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:70 Element Found Using id with value password1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:92 Typed admin@123454545on element With locator password1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:70 Element Found Using class with value submit-btn
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:81 Clicked on element with locator value submit-btn
+[33mWARNING [0m SeleniumDriver:selenium_driver.py:72 Element Not Found Using class with value welcomeMessage
+[33mWARNING [0m SeleniumDriver:homepage.py:20 Element with locator 'welcomeMessage' not found
