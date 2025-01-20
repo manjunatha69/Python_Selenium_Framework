@@ -481,5 +481,4 @@
 2025-01-17 19:55:11,074 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
 2025-01-17 19:55:11,106 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
 2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
-
 2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
